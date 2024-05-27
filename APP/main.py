@@ -33,8 +33,7 @@ db_config = {
     'user': 'prajwal',
     'password': 'Prajwal123',
     'database': 'streamlit-rds',
-    'port': 3306,
-    'raise_on_warnings': True
+    'port': 3306
 }
 
 # Initialize session state variables
