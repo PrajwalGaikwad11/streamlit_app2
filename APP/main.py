@@ -32,7 +32,7 @@ db_config = {
     'host': 'database-1.c3weg86e8fzs.eu-north-1.rds.amazonaws.com',
     'user': 'prajwal',
     'password': 'Prajwal123',
-    'database': 'database-1',
+    'database': 'user',
     'port': 3306
 }
 
