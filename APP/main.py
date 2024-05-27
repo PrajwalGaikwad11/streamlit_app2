@@ -29,7 +29,7 @@ EMAIL_PASSWORD = "mHY7V86P3Fh9O5qS"
 
 # Database Configuration
 db_config = {
-    'host': 'streamlit-rds.c3weg86e8fzs.eu-north-1.rds.amazonaws.com',
+    'host': 'database-1.c3weg86e8fzs.eu-north-1.rds.amazonaws.com',
     'user': 'prajwal',
     'password': 'Prajwal123',
     'database': 'database-1',
